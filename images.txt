@@ -2,5 +2,6 @@
 chromedp/headless-shell:114.0.5735.199
 golang:1.21.1-alpine3.18
 jenkins/jenkins:2.401.1-lts-jdk11
+ghost:5.88.2
 #支持指定架构
 #--platform=linux/amd64
